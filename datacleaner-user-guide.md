@@ -1,4 +1,4 @@
-# DataCleaner User Guide
+# DataCleaner User Guide 
 
 ## Key Features:
 - Removes duplicate entries
