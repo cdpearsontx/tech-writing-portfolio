@@ -6,9 +6,10 @@ A collection of technical writing samples, including user guides, FAQs, and docu
 ## Featured Documents
 
 1. **[How to Correct Common Web Accessibility Issues](./ada-common-issues.md)** - A guide to correct the most common ADA web page issues.
-2. **[How to Optimize Your Flyers for ADA](./flyers)** - A guide to prepare your flyers to export to live text in PDF using settings in Adobe InDesign and Adobe Illustrator.
-3. **[How to Convert a Markdown file to PDF](./markdown-to-pdf)** - Step by Step instructions on converting a Markdown .md file to a PDF document.
-4. **[Creating SEO Friendly Web Content](./seo-content.md)** - A brief guide to creating web content that is search engine optimized.
+2. **[DataCleaner User Guide](./datacleaner-user-guide.md) - A user guide installing the Datacleaner application. 
+3. **[How to Optimize Your Flyers for ADA](./flyers)** - A guide to prepare your flyers to export to live text in PDF using settings in Adobe InDesign and Adobe Illustrator.
+4. **[How to Convert a Markdown file to PDF](./markdown-to-pdf)** - Step by Step instructions on converting a Markdown .md file to a PDF document.
+5. **[Creating SEO Friendly Web Content](./seo-content.md)** - A brief guide to creating web content that is search engine optimized.
 
  > More samples of my writing will be added to expand this portfolio.
 >
