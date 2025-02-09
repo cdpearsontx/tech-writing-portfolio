@@ -59,4 +59,4 @@ pip uninstall datacleaner
 **DataCleaner** is a simple yet powerful tool for handling messy CSV files. Try it today and streamline your data workflow!
 
 
-For more detail, visit our [official documentation](https://https://cdpearsonwrites.wordpress.com/).
+For more detail, visit our [official documentation](https://https://cdpearsonwrites.wordpress.com/). 
