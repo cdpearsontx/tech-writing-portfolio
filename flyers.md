@@ -1,4 +1,4 @@
-# Optimizing Event Flyers for Accessibilty
+# Optimizing Event Flyers for Accessibility 
 
 _A step-by-step guide on designing, formatting, and exporting accessible event flyers_
 
