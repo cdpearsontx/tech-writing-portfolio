@@ -10,7 +10,7 @@ A collection of technical writing samples, including user guides, FAQs, and docu
 3. **[How to Convert a Markdown file to PDF](./markdown-to-pdf)** - Step by Step instructions on converting a Markdown .md file to a PDF document.
 4. **[Creating SEO Friendly Web Content](./seo-content.md)** - A brief guide to creating web content that is search engine optimized.
 
- > More samples of my writing will be added to expand this porfolio.
+ > More samples of my writing will be added to expand this portfolio.
 >
 > ---
 >
