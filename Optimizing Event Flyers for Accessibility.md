@@ -13,7 +13,7 @@ _A step-by-step guide on designing, formatting, and exporting accessible event f
 - **Adobe Illustrator** (Better for graphical flyers with live text)
 - **Microsoft Word / Google Docs** (For text-heavy event posters)
 
-
+ 
 
 ## Step 2. Best Practices for Accessible Flyer Design
 ### Use High-Contrast Colors
