@@ -4,7 +4,7 @@
 - Removes duplicate entries
 - Formates data into reable tables
 - Detects and fixes commons errors in CSV files
-
+ 
 ---
 
 ## Installation 
