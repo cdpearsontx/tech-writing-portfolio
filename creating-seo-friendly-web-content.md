@@ -1,6 +1,6 @@
 # Creating SEO-Friendly Web Content: A Quick Guide for Writers
 
-## 1. Introduction 
+## 1. Introduction  
 
 **What is SEO, and why does it matter?**
 
