@@ -11,6 +11,8 @@ A collection of technical writing samples, including user guides, FAQs, and docu
 4. **[How to Optimize Your Flyers for ADA](./flyers)** - A guide to prepare your flyers to export to live text in PDF using settings in Adobe InDesign and Adobe Illustrator.
 5. **[How to Convert a Markdown file to PDF](./markdown-to-pdf)** - Step by Step instructions on converting a Markdown .md file to a PDF document.
 6. **[Creating SEO Friendly Web Content](./seo-content.md)** - A brief guide to creating web content that is search engine optimized.
+7. **[Cloudwerk Reset Passwork Guide](./cloudwerx-reset-password-guide.md)** - Step by Step instructions for resetting user password fro SaaS application, Cloudwerx.
+8. **[Compliancy Policy: Ensuring Content Accessibility](./content-accessibility.md)**
 
  > More samples of my writing will be added to expand this portfolio.
 >
