@@ -18,7 +18,7 @@ SEO & Content Writing:
 
 User Guides:
 1. **[Cloudwerx Reset Password Guide](./cloudwerx-reset-password-guide.md)** - A guide to resetting the user password for Cloudwerx login. 
-2. **[DataCleaner User Guide](./datacleaner-user-guide.md) - A user guide installing the Datacleaner application. 
+2. **[DataCleaner User Guide](./datacleaner-user-guide.md)** - A user guide installing the Datacleaner application. 
 3. **[How to Convert a Markdown file to PDF](./markdown-to-pdf)** - Step by Step instructions on converting a Markdown .md file to a PDF document.
 
 
