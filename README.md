@@ -8,7 +8,7 @@ A collection of technical writing samples, including user guides, FAQs, and docu
 Accessibility & Compliance:
 
 1. **[How to Correct Common Web Accessibility Issues](./ada-common-issues.md)** - A guide to correct the most common ADA web page issues.
-2. **[Compliancy Policy: Ensuring Content Accessibility](./content-accessibility.md)**
+2. **[Compliancy Policy: Ensuring Content Accessibility](./content-accessibility.md)** - Compliance Policy for Accessible Content. 
 3. **[How to Optimize Your Flyers for ADA](./flyers)** - A guide to prepare your flyers to export to live text in PDF using settings in Adobe InDesign and Adobe Illustrator.
 
 SEO & Content Writing:
