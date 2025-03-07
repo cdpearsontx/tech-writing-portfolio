@@ -17,7 +17,7 @@ SEO & Content Writing:
 
 
 User Guides:
-1.  **[OmniCMS QUick Guide for Page Management](./cms-quick-reference/blob/main/content-management.md)**
+1.  **[OmniCMS QUick Guide for Page Management](.https://github.com/cdpearsontx/cms-quick-reference/blob/main/content-management.md)**
 2.  **[Cloudwerx Reset Password Guide](./cloudwerx-reset-password-guide.md)** - A guide to resetting the user password for Cloudwerx login. 
 3. **[DataCleaner User Guide](./datacleaner-user-guide.md)** - A user guide installing the Datacleaner application. 
 4. **[How to Convert a Markdown file to PDF](./markdown-to-pdf)** - Step by Step instructions on converting a Markdown .md file to a PDF document.
