@@ -1,4 +1,4 @@
-# Tech Writing Portfolio
+# Technical Writing Portfolio
 A collection of technical writing samples, including user guides, FAQs, and documentation.
 
 ---
