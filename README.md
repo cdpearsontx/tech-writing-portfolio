@@ -33,6 +33,7 @@ User Guides:
 >
 >I specialize in **technical writing, documentation, and content management**, with a focus on **clear and user-friendly documentation**. My skills include:
 
+- Digital Accessibility 
 - Writing & structuring documentation in **Markdown**  
 - Creating **user guides, FAQs, and SaaS documentation**  
 - Organizing content for **clarity, accessibility, and SEO**  
