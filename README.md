@@ -5,6 +5,11 @@ A collection of technical writing samples, including user guides, FAQs, and docu
 
 ## Featured Documents
 
+API Documentation
+
+1. **[JSON Placeholder API](./JSONPlaceholder-API-Documnetation.md)** Markdown file | **[PDF](./json-placeholder-api-doc.pdf)** 
+2. **[Rook Memory Management API](./Rook-API-Internal-Memory-Mangement-System.md)** Markdown file | **[PDF](./Rook-API-Internal-Memory-Mangement-System.pdf)**
+
 Accessibility & Compliance:
 
 1. **[How to Correct Common Web Accessibility Issues](./ada-common-issues.md)** - A guide to correct the most common ADA web page issues.
