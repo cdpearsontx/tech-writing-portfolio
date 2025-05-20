@@ -7,7 +7,7 @@ A collection of technical writing samples, including user guides, FAQs, and docu
 
 API Documentation
 
-1. **[Reqres API DOcumentation](./Reqres-API-Documentation.md)** Markdown file 
+1. **[Reqres API Documentation](./Reqres-API-Documentation.md)** Markdown file 
 2. **[JSON Placeholder API](./JSONPlaceholder-API-Documnetation.md)** Markdown file | **[PDF](./json-placeholder-api-doc.pdf)** 
 3. **[Rook Memory Management API](./Rook-API-Internal-Memory-Management-System.md)** Markdown file | **[PDF](./Rook-API-Internal-Memory-Mangement-System.pdf)**
 
