@@ -9,7 +9,7 @@ API Documentation
 
 1. **[JSON Placeholder API](./JSONPlaceholder-API-Documnetation.md)** Markdown file | **[PDF](./json-placeholder-api-doc.pdf)** 
 2. **[Reqres API Documentation](./Reqres-API-Documentation.md)** Markdown file 
-3. 4. **[Rook Memory Management API](./Rook-API-Internal-Memory-Management-System.md)** Markdown file | **[PDF](./Rook-API-Internal-Memory-Mangement-System.pdf)**
+3. **[Rook Memory Management API](./Rook-API-Internal-Memory-Management-System.md)** Markdown file | **[PDF](./Rook-API-Internal-Memory-Mangement-System.pdf)**
 
 Accessibility & Compliance:
 
