@@ -5,13 +5,17 @@ A collection of technical writing samples, including user guides, FAQs, and docu
 
 ## Featured Documents
 
-**API Documentation (No Authorization)**
+**API Documentation Public / No-Auth APIs**
+
+Lightweight APIs perfect for learning, testing, or demo purposes.
 
 1. **[JSON Placeholder API](./JSONPlaceholder-API-Documnetation.md)** Markdown file | **[PDF](./json-placeholder-api-doc.pdf)** 
 2. **[Reqres API Documentation](./Reqres-API-Documentation.md)** Markdown file 
 3. **[Rook Memory Management API](./Rook-API-Internal-Memory-Management-System.md)** Markdown file | **[PDF](./Rook-API-Internal-Memory-Mangement-System.pdf)**
 
-**API Documentation (Authorization)**
+**Authenticated APIs (Intermediate–Advanced)**
+These documentation samples reflect more advanced interaction with APIs that require authentication, including handling tokens, building multi-step workflows, and demonstrating real-world developer use cases.
+
 1. **[Spotify Artist Flow Documentation](./Spotify-Artist-Flow-Documentation.md)**
 
 This markdown-based documentation demonstrates a complete, real-world API interaction flow using the Spotify Web API.
