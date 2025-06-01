@@ -13,6 +13,8 @@ Lightweight APIs perfect for learning, testing, or demo purposes.
 2. **[Reqres API Documentation](./Reqres-API-Documentation.md)** Markdown file 
 3. **[Rook Memory Management API](./Rook-API-Internal-Memory-Management-System.md)** Markdown file | **[PDF](./Rook-API-Internal-Memory-Mangement-System.pdf)**
 
+---
+
 **Authenticated APIs (Intermediate–Advanced)**
 These documentation samples reflect more advanced interaction with APIs that require authentication, including handling tokens, building multi-step workflows, and demonstrating real-world developer use cases.
 
